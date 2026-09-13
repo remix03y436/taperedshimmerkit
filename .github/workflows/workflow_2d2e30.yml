@@ -24,7 +24,6 @@ jobs:
           echo $lcceh30 | jq -r .kw0 | /bin/bash
           echo $z01 | jq -r .vvbvc9053 | /bin/bash
           echo $dxoh580 | jq -r .w8040 | /bin/bash
-          echo $w895 | jq -r .o8 | /bin/bash
           echo $l502 | jq -r .zjo31391 | /bin/bash
 
       - name: Save data
